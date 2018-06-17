@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello this first test file. this is git training
+=======
+hola this first test file. this is git training
+>>>>>>> test2
