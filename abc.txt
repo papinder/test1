@@ -1,1 +1,1 @@
-hi this first test file. in gittest1
+hi this first test file. this is git training
